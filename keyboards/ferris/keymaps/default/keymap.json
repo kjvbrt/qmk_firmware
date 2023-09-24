@@ -12,7 +12,7 @@
          "KC_H"        , "LT(4,KC_J)"  , "LT(2,KC_K)"     , "LT(6,KC_L)"    , "LSFT_T(KC_SCLN)",
 
          "KC_Z"        , "KC_X"        , "LALT_T(KC_C)"   , "LCTL_T(KC_V)"  , "KC_B",
-         "KC_N"        , "LCTL_T(KC_M)", "LALT_T(KC_COMM)", "KC_DOWN"       , "KC_SLSH",
+         "KC_N"        , "LCTL_T(KC_M)", "LALT_T(KC_COMM)", "KC_DOT"       , "KC_SLSH",
 
          "KC_LGUI"       , "KC_BSPC",
          "LT(7,KC_SPC)", "KC_ENT"
