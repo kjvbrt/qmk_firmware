@@ -92,13 +92,13 @@
         ["KC_TRNS"     , "KC_TRNS"     , "KC_COLN"        , "KC_ESC"        , "LSFT(KC_INS)",
          "KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"       , "KC_DEL",
 
-         "KC_TRNS"     , "KC_PERC"     , "KC_SLSH"        , "KC_ENT"        , "KC_TRNS",
+         "KC_TRNS"     , "KC_PERC"     , "KC_SLSH"        , "KC_ENT"        , "LCTL(KC_SPC)",
          "DF(1)"       , "KC_LGUI"     , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS",
 
          "KC_PSCR"     , "KC_TRNS"     , "KC_TRNS"        , "KC_EXLM"       , "KC_TRNS",
          "DF(0)"       , "KC_TRNS"     , "RALT_T(KC_COMM)", "RCTL_T(KC_DOT)", "QK_BOOT",
 
-         "KC_ESC"     , "KC_TAB",
+         "KC_ESC"      , "KC_TAB",
          "KC_NO"       , "KC_TRNS"
         ]
     ],
